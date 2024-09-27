@@ -1,5 +1,5 @@
 # Projeto.Estoque
-Projeto conceitual para possibilitar os gerentes de estoque da minha loja, a conseguir consultar o inventario de estoque.
+Projeto conceitual para possibilitar os gerentes de estoque da minha loja, consultar o inventario de estoque.
 
 Requisitos Funcionais:
 - Consultar itens no estoque.
